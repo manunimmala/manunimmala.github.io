@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Engineering Mechanics division of the Mechanical Engineering Department at Virginia Tech, where I am co-advised by Dr. Shane Ross and Dr. Hosein Foroutan. 
+Hi, my name is Manu! I am a PhD candidate in the Engineering Mechanics program, currently within the Mechanical Engineering Department at Virginia Tech. I am fortunate enought to be co-advised by Dr. Shane Ross ([Ross Dynamics Lab](https://ross.aoe.vt.edu)) and Dr. Hosein Foroutan. My research is focused on understanding the transport of pollen through the atmosphere in varying wind conditions. 
 
 News
 ======

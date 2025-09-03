@@ -21,7 +21,7 @@ repository               : "manunimmala/manunimmala.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile1.JPG"
   name             : "Manu Nimmala"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Virginia Tech"

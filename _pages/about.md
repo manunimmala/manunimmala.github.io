@@ -16,8 +16,9 @@ Hi, my name is Manu Nimmala! I am a PhD candidate in the Engineering Mechanics p
 News
 ======
 * **December 2025**: Successfully defended my thesis and have graduated!!!
-* **December 2025**: Honored to recieve the [Liviu Librescu Memorial Fellowship](https://me.vt.edu/news/briefs/liviu-librescu-fellowship-12-2025.html)
-* **August 2025**: Submitted a manuscript to the journal of Agriculture and Forest Meteorology. 
+* **December 2025**: Honored to recieve the [Liviu Librescu Memorial Fellowship](https://me.vt.edu/news/briefs/liviu-librescu-fellowship-12-2025.html), for outstanding academic records and demonstration of strong leadership potential and commitment to professional or community service. 
+* **August 2025**: Paper 2 preprint available: 
+
 
 
 Experience
